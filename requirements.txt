@@ -1,0 +1,19 @@
+# Core Data Manipulation & Numerical Computing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Classical Machine Learning & Statistical Clustering
+scikit-learn>=1.5.0
+scipy>=1.13.0
+
+# Frequent Pattern Mining & Association Rules (Market Basket Analysis)
+mlxtend>=0.23.0
+
+# Data Visualization & Exploratory Analysis
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Interactive Notebook Environment
+jupyterlab>=4.0.0
+notebook>=7.0.0
+ipykernel>=6.29.0
